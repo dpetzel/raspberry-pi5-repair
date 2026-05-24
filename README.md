@@ -36,13 +36,20 @@ I would have expected a more comprehensive "map" of the various chips and compon
 1. Radio
 2. Memory
 3. Southbridge I/O Controller
-4. TBD
-5. TBD
+4. AP22652W6-7 LOAD SWITCH
+   * Description: The AP22652, AP22653, AP22652A, and AP22653A are single-channel, precision-adjustable, current-limited
+     switches optimized for applications that require precision current limiting, or to provide up to 2.1A of continuous
+     load current during heavy loads/short circuits.
+   * References:
+     * https://forums.raspberrypi.com/viewtopic.php?t=397399#p2370772
+     * Datasheet: https://www.diodes.com/datasheet/download/AP22652_AP22653_AP22652A_AP22653A.pdf
+     * Digikey: https://www.digikey.co.uk/en/products/detail/diodes-incorporated/AP22652W6-7/10481161
 6. TBD
 7. TBD
 8. TBD
 9. TBD
 10. TBD
-11. PMIC
-12. TBD
-13. SOC
+11. TBD
+12. PMIC
+13. TBD
+14. SOC
