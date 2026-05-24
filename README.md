@@ -33,6 +33,16 @@ While chasing power readings, I took the following measurements. I do *not* have
 I would have expected a more comprehensive "map" of the various chips and components to exist, but I didn't find one so I started to piece one together myself.
 ![TestPinMap](./top_numbered.jpg)
 
-1. TK
-2. TK
-3. TK
+1. Radio
+2. Memory
+3. Southbridge I/O Controller
+4. TBD
+5. TBD
+6. TBD
+7. TBD
+8. TBD
+9. TBD
+10. TBD
+11. PMIC
+12. TBD
+13. SOC
