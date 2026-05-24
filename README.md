@@ -31,4 +31,8 @@ While chasing power readings, I took the following measurements. I do *not* have
 
 ### Chips & Components
 I would have expected a more comprehensive "map" of the various chips and components to exist, but I didn't find one so I started to piece one together myself.
-![TestPinMap](./top_annotated.jpg)
+![TestPinMap](./top_numbered.jpg)
+
+1. TK
+2. TK
+3. TK
